@@ -1,9 +1,6 @@
 import serial
-import tkinter
-import tkinter.font
 import defaultNumber as dN
 import result
-
 
 PORT = '/dev/cu.usbmodem14101'
 BaudRate = 9600
